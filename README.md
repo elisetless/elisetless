@@ -48,4 +48,4 @@ Designed and developed websites for local individuals and organisations using Wo
 
 ## 📫 Connect with Me
 
-- LinkedIn: **linkedin.com/in/elisetless**
+- LinkedIn: **<linkedin.com/in/elisetless>**
