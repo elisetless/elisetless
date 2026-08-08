@@ -15,7 +15,7 @@ I'm a **Computer Science student at North Carolina State University** with a pas
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **North Carolina State University**
-- 🌐 Explore my portfolio at **https://elisetless.com**
+- 💡 Passionate about building technology that is practical, accessible, and thoughtfully designed
 - 💼 Founder of **Eli's Tech**, providing technology consulting and web development services since 2019
 - 👥 Supported more than **30 local clients** with technology consulting, website development, and technical support
 - 🍎 Interested in software engineering, Apple technologies, and designing intuitive digital experiences
@@ -25,10 +25,10 @@ I'm a **Computer Science student at North Carolina State University** with a pas
 
 ## 🛠️ Technologies & Skills
 
-### Currently Comfortable With
+### Experience With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,wordpress,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,wordpress,git,github,cloudflare" />
 </p>
 
 - Apple School Manager
@@ -81,4 +81,4 @@ Designed and maintained websites for local individuals and organisations, balanc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisetless)
 ---
 
-> *I'm currently focused on strengthening my software engineering skills while building projects that combine technology, design, and real-world problem solving.*
+> *I'm currently focused on growing as a software engineer by building projects that combine thoughtful design, modern technology, and real-world problem solving.*
