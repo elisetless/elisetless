@@ -64,15 +64,6 @@ Designed and developed websites for local individuals and organisations using Wo
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elisetless&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisetless&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisetless)
