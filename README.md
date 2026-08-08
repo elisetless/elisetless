@@ -4,7 +4,9 @@
 
 ### Computer Science Student • Software Engineering • Apple Technologies • Design
 
-I'm an incoming **Computer Science student at North Carolina State University** with a passion for software engineering, Apple technologies, and creating intuitive user experiences.
+I'm a **Computer Science student at North Carolina State University** with a passion for software engineering, Apple technologies, and creating intuitive digital experiences.
+
+**🌐 Portfolio • [https://elisetless.com](https://elisetless.com)**
 
 </div>
 
@@ -12,11 +14,12 @@ I'm an incoming **Computer Science student at North Carolina State University** 
 
 ## 👨‍💻 About Me
 
-- 🎓 Incoming B.S. Computer Science student at **North Carolina State University**
-- 🍎 Interested in **software engineering**, **Apple platform development**, and **designing intuitive user experiences**
-- 💼 Founder of **Eli's Tech**, a technology consulting business that has served **30+ local clients** since 2019
-- 🌍 Passionate about international collaboration through educational exchange and cross-cultural learning
-- 🛠️ I enjoy building software, solving technical problems, and figuring out how technology works behind the scenes.
+- 🎓 Computer Science student at **North Carolina State University**
+- 🌐 Explore my portfolio at **https://elisetless.com**
+- 💼 Founder of **Eli's Tech**, providing technology consulting and web development services since 2019
+- 👥 Supported more than **30 local clients** with technology consulting, website development, and technical support
+- 🍎 Interested in software engineering, Apple technologies, and designing intuitive digital experiences
+- 🌍 Enjoy collaborating across cultures through educational exchange programmes and international learning
 
 ---
 
@@ -54,20 +57,28 @@ I'm an incoming **Computer Science student at North Carolina State University** 
 
 ## 📂 Featured Projects
 
+### 🌐 Portfolio Website
+A responsive portfolio built with WordPress, Cloudflare, and modern web technologies to showcase my projects, experience, and professional growth.
+
+➡️ [https://elisetless.com](https://elisetless.com)
+
+---
+
 ### 🧩 Hestia Custom Sections
+A custom WordPress plugin extending the Hestia theme with reusable homepage sections while exploring plugin architecture and maintainable theme extensions.
 
-A custom WordPress plugin extending the Hestia theme with configurable homepage sections and reusable content blocks using PHP, HTML, CSS, and the WordPress API.
+---
 
-### 🌐 Client Websites
-
-Designed and developed websites for local individuals and organisations using WordPress.
-
+### 💼 Client Websites
+Designed and maintained websites for local individuals and organisations, balancing usability, accessibility, performance, and long-term maintainability.
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisetless)
+🌐 Portfolio  
+[https://elisetless.com](https://elisetless.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisetless)
 ---
 
 > *I'm currently focused on strengthening my software engineering skills while building projects that combine technology, design, and real-world problem solving.*
